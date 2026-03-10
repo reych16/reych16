@@ -16,7 +16,6 @@
 - 💻 I focus on building **real-world applications, scalable backend systems and clean code**
 - 🌱 Currently learning **System Design, Docker, JWT Security, Microservices**
 - 🔐 Interested in **backend architecture, APIs, databases and secure systems**
-- 🚀 Open to **internships, software engineering, backend and full-stack opportunities**
 - 🌎 Based in **Costa Rica**
 
 <br clear="right"/>
@@ -42,35 +41,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 💰 Expense Tracker API
-Secure backend REST API built with:
-- Java
-- Spring Boot
-- PostgreSQL
-- JWT Authentication
-- Docker
-- Swagger
-- JUnit / Mockito
-
-### 🏦 Bank App
-Banking simulation system with accounts, transactions and balance management.
-
-**Tech:** Python • Flask • PostgreSQL
-
-### 💵 Finan-Pro
-Personal finance management platform designed for students.
-
-**Tech:** Python • Flask • REST API
-
-### 🛒 Handmade Marketplace
-Marketplace platform for handcrafted products.
-
-**Tech:** JavaScript • Node.js • HTML • CSS
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -92,14 +62,6 @@ Marketplace platform for handcrafted products.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reych16&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reych16&theme=radical&margin-w=12&margin-h=12" />
 </p>
 
 ---
