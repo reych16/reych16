@@ -41,12 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=reych16)
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
