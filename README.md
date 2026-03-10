@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Reychel%20Vargas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,25:ff758c,50:ffb347,75:6a82fb,100:fc5c7d&height=220&section=header&text=Reychel%20Vargas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Reychel Vargas</h1>
 <h3 align="center">Software Engineering Student | Backend & Full-Stack Developer</h3>
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 💻 I focus on building **real-world applications, scalable backend systems and clean code**
 - 🌱 Currently learning **System Design, Docker, JWT Security, Microservices**
@@ -79,7 +79,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc5c7d,25:ff7eb3,50:6a82fb,75:ffb347,100:ff758c&height=120&section=footer"/>
 </p>
 
 ⭐ Open to **Software Engineering Internships, Backend and Full-Stack roles**
