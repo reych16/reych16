@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="female coder" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="woman coding" width="320" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 - 💻 I focus on building **real-world applications, scalable backend systems and clean code**
 - 🌱 Currently learning **System Design, Docker, JWT Security, Microservices**
