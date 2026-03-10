@@ -1,65 +1,132 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Reychel%20Vargas&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Reychel%20Vargas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-# 👋 Hi, I'm Reychel Vargas
+<h1 align="center">Hi 👋, I'm Reychel Vargas</h1>
+<h3 align="center">Software Engineering Student | Backend & Full-Stack Developer</h3>
 
-💻 Software Engineering Student  
-🚀 Backend & Full-Stack Developer  
-🌎 Costa Rica  
-
-I focus on building real-world applications, scalable backend systems and clean code.
-
----
-
-# 🚀 About Me
-
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 🔭 Currently building backend systems and APIs
-- 🌱 Learning **Spring Boot, Docker, System Design**
-- 💻 Passionate about **backend architecture**
-- 🚀 Interested in **high performance systems**
-- 📚 Studying **Software Engineering**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reych16&label=Profile%20views&color=0e75b6&style=flat" alt="reych16" />
+</p>
 
 ---
 
-# 🧠 Tech Stack
+## 🚀 About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 💻 I focus on building **real-world applications, scalable backend systems and clean code**
+- 🌱 Currently learning **System Design, Docker, JWT Security, Microservices**
+- 🔐 Interested in **backend architecture, APIs, databases and secure systems**
+- 🚀 Open to **internships, software engineering, backend and full-stack opportunities**
+- 🌎 Based in **Costa Rica**
+
+<br clear="right"/>
+
+---
+
+## 🧠 Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
+</p>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
 
-### Database
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux,vscode" />
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![Stats](https://github-readme-stats.vercel.app/api?username=reych16&show_icons=true&theme=tokyonight)
+### 💰 Expense Tracker API
+Secure backend REST API built with:
+- Java
+- Spring Boot
+- PostgreSQL
+- JWT Authentication
+- Docker
+- Swagger
+- JUnit / Mockito
 
-![Streak](https://streak-stats.demolab.com?user=reych16&theme=tokyonight)
+### 🏦 Bank App
+Banking simulation system with accounts, transactions and balance management.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reych16&layout=compact&theme=tokyonight)
+**Tech:** Python • Flask • PostgreSQL
+
+### 💵 Finan-Pro
+Personal finance management platform designed for students.
+
+**Tech:** Python • Flask • REST API
+
+### 🛒 Handmade Marketplace
+Marketplace platform for handcrafted products.
+
+**Tech:** JavaScript • Node.js • HTML • CSS
 
 ---
 
+## 📊 GitHub Stats
 
-# 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ReychelVargas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reychel-vargas-5167b1261)
-
-📧 Email: reyva18@outlook.es
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reych16&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reych16&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=reych16&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reych16&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reych16&theme=radical&margin-w=12&margin-h=12" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/reychel-vargas-5167b1261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Reychel%20Vargas-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+📧 **Email:** reyva18@outlook.es
+
+---
+
+## 🎯 Current Focus
+
+- Building stronger backend portfolio projects
+- Improving API security and architecture
+- Learning production-ready development practices
+- Growing toward full-stack and software engineering roles
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
 
 ⭐ Open to **Software Engineering Internships, Backend and Full-Stack roles**
